@@ -5,9 +5,9 @@
   "homepage": "https://takaras.github.io/robofriends",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^2.1.8",
     "tachyons": "^4.11.1"
   },
   "scripts": {
