@@ -9,6 +9,12 @@
 
 h1 {
     font-family: 'SEGA LOGO FONT';
-    font-weight: 200;
+    font-weight: 400;
     color: #0ccac4;
+}
+
+.heading-2 {
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 400;
+  color: #0ccac4;
 }
